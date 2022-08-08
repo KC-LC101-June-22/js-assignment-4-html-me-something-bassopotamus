@@ -141,6 +141,7 @@ footer{
     margin: auto;
     width: 60%;
     text-align: center;
+    display: block;
 }
 
 
