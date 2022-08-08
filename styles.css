@@ -75,7 +75,6 @@ nav{
     top: 28%;
     font-family: sans-serif;
     font-weight: 600;
-    width: 20%;
 }
 
 ul{
@@ -119,12 +118,14 @@ h2{
     font-weight: 700;
     color: red;
     margin: 5px;
+    display: inline-block;
 }
 
 p{
     font-family: sans-serif;
     margin: 10px;
     line-height: 20px;
+    display: inline-block;
 }
 
 footer{
